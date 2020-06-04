@@ -9,8 +9,6 @@ This is a checklist of state-of-the-art research materials (datasets, blogs, pap
 
 Please feel free to pull request to add new resources or send emails to us for questions, discussion and collaborations.
 
-Also welcome to check the current research in our [**MSC Lab**](https://msc.berkeley.edu/research/autonomous-vehicle.html) at UC Berkeley.
-
 **Research Intern**: Please read [**this**](https://jiachenli94.github.io/Research_Intern_Opportunities_at_UC_Berkeley.pdf) if you want to apply for research intern opportunities in our group.
 
 **Note**: [**Here**](https://github.com/jiachenli94/Awesome-Decision-Making-Reinforcement-Learning) is also a collection of materials for reinforcement learning, decision making and motion planning.
@@ -49,7 +47,7 @@ Please cite our work if you found this useful:
 	- [Physics Systems with Interaction](#physics-systems-with-interaction)
 	- [Intelligent Vehicles & Traffic](#intelligent-vehicles-traffic)
 	- [Mobile Robots](#mobile-robots)
-	- [Pedestrians](#pedestrians)
+	- [Pedestrians](#pedestrians-1)
 	- [Vehicle-Pedestrians Interaction](#vehicle-pedestrians-interaction)
 	- [Sport Players](#sport-players)
 	- [Benchmark and Evaluation Metrics](#benchmark-and-evaluation-metrics)
@@ -225,7 +223,7 @@ Please cite our work if you found this useful:
 - Learning to Infer Relations for Future Trajectory Forecast, CVPR 2019. \[[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Choi_Learning_to_Infer_Relations_for_Future_Trajectory_Forecast_CVPRW_2019_paper.pdf)\]
 - TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, CVPR 2019.  \[[paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>)\]
 - Which Way Are You Going? Imitative Decision Learning for Path Forecasting in Dynamic Scenes, CVPR 2019.  \[[paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>)\]
-- Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction, CVPR 2019.  \[[paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Makansi_Overcoming_Limitations_of_Mixture_Density_Networks_A_Sampling_and_Fitting_CVPR_2019_paper.pdf>)\]
+- Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction, CVPR 2019.  \[[paper](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Makansi_Overcoming_Limitations_of_Mixture_Density_Networks_A_Sampling_and_Fitting_CVPR_2019_paper.pdf>)\]\[[code](https://github.com/lmb-freiburg/Multimodal-Future-Prediction)\]
 - Sophie: An attentive gan for predicting paths compliant to social and physical constraints, CVPR 2019. \[[paper](https://arxiv.org/abs/1806.01482)\]\[[code](https://github.com/hindupuravinash/the-gan-zoo/blob/master/README.md)\]
 - Pedestrian path, pose, and intention prediction through gaussian process dynamical models and pedestrian activity recognition, 2019. \[[paper](https://ieeexplore.ieee.org/document/8370119/)\]
 - Multimodal Interaction-aware Motion Prediction for Autonomous Street Crossing, 2019. \[[paper](https://arxiv.org/abs/1808.06887)\]
